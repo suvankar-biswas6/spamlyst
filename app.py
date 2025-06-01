@@ -6,7 +6,7 @@ from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 ps = PorterStemmer()
 # Download necessary NLTK resources
-nltk.download('punkt')
+# nltk.download('punkt')
 
 tfidf = pickle.load(open('vectorizer.pkl', 'rb'))
 model = pickle.load(open('model_mnb.pkl', 'rb'))
