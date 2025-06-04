@@ -30,7 +30,8 @@ def transform_text(text):
     y = []
     # stopwords and puntuation removal
     for i in text:
-        if i not in stopwords.words('english') and i not in string.punctuation:
+        # if i not in stopwords.words('english') and i not in string.punctuation:
+        if i not in string.punctuation:
             # if the word is not a stopword and not a punctuation, keep it
             y.append(i)
             
