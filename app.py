@@ -10,7 +10,7 @@ nltk.download('punkt_tab')
 nltk.download('stopwords')
 
 tfidf = pickle.load(open('vectorizer.pkl', 'rb'))
-model = pickle.load(open('model_mnb.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
 
 st.set_page_config(
     page_title="Spamlyst", 
