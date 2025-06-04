@@ -6443,3 +6443,6 @@ spam,"Dear customer, this is an automated message from GlobalCard, forward the O
 spam,"Dear customer, this is an automated message from QuickLoan, type the OTP sent to your registered mobile number for security verification. Use the OTP now to finalize the authentication procedure. notice update security compliance confirm security risk security immediately immediately risk verification alert immediately verification confirm risk security immediately protocol",,,
 spam,"Dear customer, this is an automated message from MyWallet, paste the OTP sent to your registered mobile number for security verification. Use the OTP now to finalize the authentication procedure. protect immediately protect security protect protocol confirm device protocol confirm risk urgent alert security support verify security verify urgent compliance",,,
 spam,"Dear customer, this is an automated message from PrimeServices, key in the OTP sent to your registered mobile number for security verification. Use the OTP now to finalize the authentication procedure. notice notice support system compliance support device update verify device information information immediately information alert important immediately immediately confirm",,,
+ham,Congratulations,,,
+ham,Do not share or send the OTP to anyone,,,
+ham,Do not share or send confidentital information,,,
